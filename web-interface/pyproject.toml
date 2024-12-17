@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "web-interface"
+version = "0.1.0"
+description = ""
+authors = ["usmskolyadin <koladinmaksim246@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+django = "^5.1.4"
+pillow = "^11.0.0"
+requests = "^2.32.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
