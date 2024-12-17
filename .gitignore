@@ -1,4 +1,0 @@
-db/
-migrations/
-mongo_data/
-.env/
